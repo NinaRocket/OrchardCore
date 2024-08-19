@@ -27,6 +27,7 @@
 
   <ItemGroup>
     <PackageReference Include="YesSql.Core" />
+    <PackageReference Include="YesSql.Filters.Abstractions" />
     <PackageReference Include="YesSql.Filters.Query" />
   </ItemGroup>
 
